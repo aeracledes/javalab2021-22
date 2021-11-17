@@ -43,7 +43,5 @@ public class MainClass {
 		sc.close();
 		
 	}
-	public int printCoords() {
-		
-	}
+	
 }
